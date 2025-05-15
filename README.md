@@ -4,18 +4,19 @@ Dieses Repository enthält grundlegende Python-Konzepte, die in verschiedene The
 
 ## 📁 Ordnerübersicht
 
-| Ordnername           | Inhalt                                                              |
-|----------------------|---------------------------------------------------------------------|
-| `booleans`           | Beispiele zu Wahrheitswerten und logischen Operatoren (`and`, `or`, `not`) |
-| `error_handling`     | Beispiele zur Fehlerbehandlung mit `try`, `except`, benutzerdefinierten Fehlerklassen und `raise` |
-| `for_loops`          | Schleifen mit `for`, Iteration über Listen und Ranges              |
-| `functions_modules`  | Eigene Funktionen, Rückgabewerte, Modulnutzung und rekursive Beispiele wie Fakultät  |
-| `if_statements`      | Bedingte Anweisungen mit `if`, `elif`, `else`                      |
-| `lists`              | Erstellen, Bearbeiten und Durchlaufen von Listen                   |
-| `print_statements`   | Einfache `print()`-Beispiele zur Ausgabe von Text und Variablen    |
-| `range_function`     | Verwendung der `range()`-Funktion in Schleifen                     |
-| `tuples`             | Arbeiten mit unveränderlichen Tupeln und Tuple-Unpacking           |
-| `while_loops`        | Schleifen mit `while` und Kontrollstrukturen                       |
+| Ordnername          | Inhalt                                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------------------- |
+| `booleans`          | Beispiele zu Wahrheitswerten und logischen Operatoren (`and`, `or`, `not`)                        |
+| `error_handling`    | Beispiele zur Fehlerbehandlung mit `try`, `except`, benutzerdefinierten Fehlerklassen und `raise` |
+| `for_loops`         | Schleifen mit `for`, Iteration über Listen und Ranges                                             |
+| `functions_modules` | Eigene Funktionen, Rückgabewerte, Modulnutzung und rekursive Beispiele wie Fakultät               |
+| `if_statements`     | Bedingte Anweisungen mit `if`, `elif`, `else`                                                     |
+| `lists`             | Erstellen, Bearbeiten und Durchlaufen von Listen                                                  |
+| `oop_basics`        | Grundlagen der objektorientierten Programmierung: Klassen, Objekte, Vererbung                     |
+| `print_statements`  | Einfache `print()`-Beispiele zur Ausgabe von Text und Variablen                                   |
+| `range_function`    | Verwendung der `range()`-Funktion in Schleifen                                                    |
+| `tuples`            | Arbeiten mit unveränderlichen Tupeln und Tuple-Unpacking                                          |
+| `while_loops`       | Schleifen mit `while` und Kontrollstrukturen                                                      |
 
 ## 📦 Struktur
 
