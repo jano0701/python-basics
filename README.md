@@ -8,6 +8,7 @@ Dieses Repository enthält grundlegende Python-Konzepte, die in verschiedene The
 |----------------------|---------------------------------------------------------------------|
 | `booleans`           | Beispiele zu Wahrheitswerten und logischen Operatoren (`and`, `or`, `not`) |
 | `for_loops`          | Schleifen mit `for`, Iteration über Listen und Ranges              |
+| `functions_modules`  | Eigene Funktionen, Rückgabewerte, Modulnutzung und rekursive Beispiele wie Fakultät  |
 | `if_statements`      | Bedingte Anweisungen mit `if`, `elif`, `else`                      |
 | `lists`              | Erstellen, Bearbeiten und Durchlaufen von Listen                   |
 | `print_statements`   | Einfache `print()`-Beispiele zur Ausgabe von Text und Variablen    |
