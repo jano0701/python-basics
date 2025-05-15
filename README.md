@@ -7,6 +7,7 @@ Dieses Repository enthält grundlegende Python-Konzepte, die in verschiedene The
 | Ordnername           | Inhalt                                                              |
 |----------------------|---------------------------------------------------------------------|
 | `booleans`           | Beispiele zu Wahrheitswerten und logischen Operatoren (`and`, `or`, `not`) |
+| `error_handling`     | Beispiele zur Fehlerbehandlung mit `try`, `except`, benutzerdefinierten Fehlerklassen und `raise` |
 | `for_loops`          | Schleifen mit `for`, Iteration über Listen und Ranges              |
 | `functions_modules`  | Eigene Funktionen, Rückgabewerte, Modulnutzung und rekursive Beispiele wie Fakultät  |
 | `if_statements`      | Bedingte Anweisungen mit `if`, `elif`, `else`                      |
